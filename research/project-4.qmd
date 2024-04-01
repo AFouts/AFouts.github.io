@@ -1,0 +1,10 @@
+---
+title: "RA: Legal antecedents of fiscal capacity, ongoing RCT"
+author: 
+  - Bergeron
+  - Davoine
+  - Nunn
+  - Robinson
+  - Weigel
+date: "2023"
+---

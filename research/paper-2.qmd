@@ -1,0 +1,8 @@
+---
+title: "RA: Reading Twitter in the Newsroom: Web 2.0 and Traditional-Media Reporting of Conflicts, SSRN"
+author: 
+  - Hatte
+  - Madinier
+  - Zhuravskaya
+date: "2021"
+---

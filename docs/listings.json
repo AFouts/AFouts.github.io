@@ -2,8 +2,14 @@
   {
     "listing": "/research/index.html",
     "items": [
+      "/research/project-1.html",
       "/research/paper-1.html",
-      "/research/project-1.html"
+      "/research/project-4.html",
+      "/research/paper-3.html",
+      "/research/paper-2.html",
+      "/research/project-2.html",
+      "/research/project-3.html",
+      "/research/project-5.html"
     ]
   }
 ]

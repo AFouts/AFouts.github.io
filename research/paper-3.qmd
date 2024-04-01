@@ -1,0 +1,9 @@
+---
+title: "RA: Local Elites as State Capacity: How city chiefs use local information to increase tax compliance in the DR Congo, American Economic Review"
+author: 
+  - Balan,
+  - Bergeron, 
+  - Tourek,
+  - Weigel
+date: "2022"
+---
