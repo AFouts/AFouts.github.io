@@ -1,8 +1,8 @@
 ---
-title: "Simone"
+title: "Adrien"
 about:
   template: jolla
-  image: profile.jpg
+  image: profile_picture.jpeg
   links:
     - icon: twitter
       text: twitter
@@ -18,8 +18,8 @@ about:
       href: https://scholar.google.com
 ---
 
-I am a Ph.D. student in upside-down studies at Sunspot University.
+I am a Ph.D. student in Economics at Brown University.
 
-Most of my current research is driven by trying to find an answer to the age-old question of “How cute am I?"
+I am focusing on comparative development, institutions, public economics, and applied microeconomics.
 
-Please feel free to get in touch!
+This website was a coding class assignment and is still under construction.
