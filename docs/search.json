@@ -2,21 +2,21 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Simone",
+    "title": "Adrien Foutelet",
     "section": "",
     "text": "A longer paragraph about me and my interests and anything else I like to do."
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
-    "title": "Simone",
+    "title": "Adrien Foutelet",
     "section": "Education",
     "text": "Education\nWhere I studied"
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
-    "title": "Simone",
+    "title": "Adrien Foutelet",
     "section": "Experience",
     "text": "Experience\nWhat I’ve done"
   },
@@ -44,7 +44,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Adrien",
+    "title": "Adrien Foutelet",
     "section": "",
     "text": "I am a Ph.D. student in Economics at Brown University.\nI am focusing on comparative development, institutions, public economics, and applied microeconomics.\nThis website was a coding class assignment and is still under construction."
   }

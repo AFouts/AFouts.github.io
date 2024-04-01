@@ -1,5 +1,5 @@
 ---
-title: "Adrien"
+title: "Adrien Foutelet"
 about:
   template: jolla
   image: profile_picture.jpeg
